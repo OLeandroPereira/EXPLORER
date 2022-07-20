@@ -26,12 +26,12 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 <details>
   <summary>✅ <b>Level 01</b></summary>
   <ul>
-    <a href="./nivel01/land01" style="text-decoration:none;"><li>✅ <i>Land 01 - Início da Missão</i></li></a>
+    <a href="./level01/land01" style="text-decoration:none;"><li>✅ <i>Land 01 - Início da Missão</i></li></a>
       <ul>
         <li>Mapa da jornada</li>
         <li>Como se relacionar de maneira eficiente</li>
       </ul>
-    <a href="./nivel01/stage01" style="text-decoration:none;"><li>✅ <i>Stage 01 - Fundamentos da Programação Web</i></li></a>
+    <a href="./level01/stage01" style="text-decoration:none;"><li>✅ <i>Stage 01 - Fundamentos da Programação Web</i></li></a>
       <ul>
         <li>Introdução à programação Web</li>
         <li>Fundamentos da Internet</li>
@@ -46,13 +46,13 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 <details>
   <summary>✅ <b>Level 02</b></summary>
   <ul>
-    <a href="./nivel02/land02" style="text-decoration:none;"><li>✅ <i>Land 02 - Objetivos e planejamento</i></li></a>
+    <a href="./level02/land02" style="text-decoration:none;"><li>✅ <i>Land 02 - Objetivos e planejamento</i></li></a>
       <ul>
         <li>Definição de propósito</li>
         <li>Traçando objetivos</li>
         <li>Planejando a trajetória</li>
       </ul>
-    <a href="./nivel02/stage02" style="text-decoration:none;"><li>✅ <i>Stage 02 - Introdução ao HTML e CSS</i></li></a>
+    <a href="./level02/stage02" style="text-decoration:none;"><li>✅ <i>Stage 02 - Introdução ao HTML e CSS</i></li></a>
       <ul>
         <li>Configuração de IDE</li>
         <li>Ferramentas dev do navegador</li>
@@ -72,7 +72,7 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 <details>
   <summary>✅ <b>Level 03</b></summary>
   <ul>
-    <a href="./nivel03/land03" style="text-decoration:none;"><li>✅ <i>Land 03 - Aprendizado, Estudos e Técnicas</i></li></a>
+    <a href="./level03/land03" style="text-decoration:none;"><li>✅ <i>Land 03 - Aprendizado, Estudos e Técnicas</i></li></a>
       <ul>
         <li>Cronograma de estudos com Notion</li>
         <li>Potencializando o aprendizado</li>
@@ -82,7 +82,7 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
         <li>Técnica Feymann</li>
         <li>Técnica Active Recall</li>
       </ul>
-    <a href="./nivel03/stage03" style="text-decoration:none;"><li>✅ <i>Stage 03 - Avançando no HTML e CSS</i></li></a>
+    <a href="./level03/stage03" style="text-decoration:none;"><li>✅ <i>Stage 03 - Avançando no HTML e CSS</i></li></a>
       <ul>
         <li>Formulários</li>
         <li>Tipos de Inputs</li>
@@ -189,7 +189,7 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
       <ul>
         <li>Fundamentos do back-end</li>
         <li>Node.js</li>
-        <li>NPM (Gerencuadir de pacotes)</li>
+        <li>NPM (Gerenciador de pacotes)</li>
         <li>SQL</li>
       </ul>
   </ul>
@@ -204,7 +204,7 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
       <ul>
         <li>Inspiração de ideias</li>
         <li>Resolução de problemas</li>
-        <li>Projetos simples (quere desenvolver o facebook)</li>
+        <li>Projetos simples</li>
       </ul>
     <li>🚧
  <i>Stage 08 - Front-End</i></li>

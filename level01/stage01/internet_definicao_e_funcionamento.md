@@ -18,7 +18,7 @@ e podem ser meros números. Já <b>informações</b> são um conjunto de dados m
 com coerência.</p>
 
 <p>
-   Exemplo: mês 1, Dia 1, Dia 2, quente e frio. Isso são dados, informções brutas.<br>
+   Exemplo: mês 1, Dia 1, Dia 2, quente e frio. Isso são dados, informações brutas.<br>
    Exemplo: Dia 2 do mês 1 estava quente e Dia 1, do mesmo mês, estava frio. Isso é informação,
    dados mais trabalhado, com contexto e coerência.
 </p>
@@ -35,7 +35,7 @@ operacionais toda essa parte que não podemos tocar, intangíveis, é o que cham
 <br>
 
 <p>
-  Como nós, normalmente, exergamos o funcionamento da internet: digitamos o nome do site o qual queremos
+  Como nós, normalmente, exergarmos o funcionamento da internet: digitamos o nome do site o qual queremos
    acessar e pronto! Em um passe de mágica, ele aparece na tela.
 </p>
 <br>
@@ -45,16 +45,16 @@ operacionais toda essa parte que não podemos tocar, intangíveis, é o que cham
 <br>
 <ol>
   <li>
-    &nbsp Você abre seu navegador (google crhome, firefox, microsft edge...) digita o nome do site
+    &nbsp Você abre seu navegador (google chrome, firefox, microsft edge...) digita o nome do site
     que deseja acessar e, automaticamente, o navegador preenche toda a URL. 
     <br><br>
     <p>
       O que é <b>navegador (browser)</b>❔ ele é quem te ajuda a navegar pelo grande oceano que é a internet.
-      A função dele é obter as informções necessárias de outras partes da internet e exibi-las no seu computador, celular, tablet, 
+      A função dele é obter as informações necessárias de outras partes da internet e exibi-las no seu computador, celular, tablet, 
       ou qualquer outro dispositivo.
     </p>
     <p>
-      O que é <b>URL</b>❔ URL signfica <i>Uniform Resource Locator</i> (localizador padrão de recursos)
+      O que é <b>URL</b>❔ URL significa <i>Uniform Resource Locator</i> (localizador padrão de recursos)
       , ou seja, ela é responsável por localizar e identificar um recurso (sites, imagens, vídeos...).
     </p>
   </li> <br>
@@ -74,7 +74,7 @@ operacionais toda essa parte que não podemos tocar, intangíveis, é o que cham
     <p>
       Ou seja, quando você quer acessar um site, seu computador está do lado
       do cliente (client-side) - é ele que está fazendo uma requisição para poder acessar o site. Do 
-      outro lado, teremos um computador que irá receber a requição e responde-la, esse computador é
+      outro lado, teremos um computador que irá receber a requisição e responde-la, esse computador é
       denominado de servidor (server-side). 
     </p>
     <p>
@@ -112,7 +112,7 @@ operacionais toda essa parte que não podemos tocar, intangíveis, é o que cham
       um protocolo cuja função, de forma simplificada, é garantir que a mensagem chegue corretamente ao destino.
     </p>
     <p>
-      <b>O protocolo IP</b> (Internet Protcol) é um procolo cuja função é garantir a identificação dos
+      <b>O protocolo IP</b> (Internet Protocol) é um protocolo cuja função é garantir a identificação dos
        computadores, como ele faz isso? atribuindo endereços para cada computador (é o famoso endereço
       IP, 168.77.34.21, por exemplo).
     </p>
@@ -128,7 +128,7 @@ operacionais toda essa parte que não podemos tocar, intangíveis, é o que cham
     <p>
       Ou seja, antes do sue pedido para acessar o site desejado chegue até o computador (servidor) no qual o site está hospedado ,
       ele vai primeiro para um servidor DNS, que vai receber o nome do site que você digitou (domínio) e
-      vai te devolver o endereço IP de onde aquele site está localizado/hospedado na intenet.
+      vai te devolver o endereço IP de onde aquele site está localizado/hospedado na internet.
     </p>
   </li> <br>
   <li>
@@ -137,7 +137,7 @@ operacionais toda essa parte que não podemos tocar, intangíveis, é o que cham
     <p>
       O que é um <b>Proxy</b>❔ É qualquer dispositivo no meio do caminho da caminho entre você (cliente)
       e o local onde está o site que você deseja acessar (servidor). Exemplos de Proxy: moldem, roteador,
-      outros computadores, etc... Ou seja, a função de um Proxy é, simplismente, servir de ponte para
+      outros computadores, etc... Ou seja, a função de um Proxy é, simplesmente, servir de ponte para
       que a mensagem chegue de um ponto a outro.
     </p>
     <p>
@@ -162,7 +162,7 @@ operacionais toda essa parte que não podemos tocar, intangíveis, é o que cham
     <p>
       Tá, mas o que isso significa? Significa que, antes de um computador cliente começar a se comunicar
       com um computador servidor, o TCP faz com que uma conexão seja criada previamente. Dessa forma,
-      ele garante que haverá uma conexão assegurada para que a mensgaem chegue ao seu destino de forma correta.
+      ele garante que haverá uma conexão assegurada para que a mensagem chegue ao seu destino de forma correta.
     </p>
     <p>
       Se o TCP não fizesse isso e mandasse informações adoidado sem se certificar que há uma conexão
