@@ -1,10 +1,10 @@
 <h1 align="center">Móveis para você 🪑</h1>
 
-<img src="./demonstracao.png">
+<img src="./moveis_para_voce.png">
 
 
 <div align="center">
-    <a style="font-size: 18px" href="https://oleandropereira.github.io/EXPLORER/level02/stage02/projeto01" target="_blank"> Veja o Site</a>
+    <a style="font-size: 18px" href="https://oleandropereira.github.io/EXPLORER/level02/stage02/projeto01/" target="_blank"> Veja o Site</a>
 </div>
 
 
