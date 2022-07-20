@@ -3,7 +3,7 @@
 <img src="./recriando_layout.png">
 
 <div align="center">
-    <a style="font-size: 18px" href="https://oleandropereira.github.io/Explorer/level02/stage02/desafios/desafio04_recriando_layout" target="_blank"> Veja o Site</a>
+    <a style="font-size: 18px" href="https://oleandropereira.github.io/EXPLORER/level02/stage02/desafios/desafio04_recriando_layout" target="_blank"> Veja o Site</a>
 </div>
 
 
