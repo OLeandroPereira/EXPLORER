@@ -5,7 +5,7 @@
 
 <div align="center">
     <img src="./semantica_acessibilidade.png" style="width:500px;"> <br>   
-    <a href="https://github.com/oleandropereira/EXPLORER/tree/main/level02/stage02/desafios/desafio03_corrigindo_semantica_e_acessibilidade/antes"> Veja o código antes</a> <span>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</span>
+    <a href="https://github.com/oleandropereira/EXPLORER/tree/main/level02/stage02/desafios/desafio03_corrigindo_semantica_e_acessibilidade/antes"> Veja o código antes</a> <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
     <a href="https://github.com/oleandropereira/EXPLORER/tree/main/level02/stage02/desafios/desafio03_corrigindo_semantica_e_acessibilidade/depois"> Veja o código depois</a>
 </div>
 
