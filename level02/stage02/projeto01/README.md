@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <a style="font-size: 18px" href="https://oleandropereira.github.io/EXPLORER/level02/stage02/projeto01/" target="_blank"> Visualizar o Site</a>
+    <a style="font-size: 18px" href="https://oleandropereira.github.io/EXPLORER/level02/stage02/projeto01/" target="_blank"> Veja o Site</a>
 </div>
 
 
@@ -48,8 +48,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <br>
 <br>
 
-<p align="center"> Desenvolvido com 💜 por Leandro Pereira ✌🏽<p>
+<p align="center"> Desenvolvido com 💜 por Leandro Pereira ✌🏽 <p>
 
 <br>
 
-<a href="../../README.md"><< Voltar</a>
+<a href="../README.md"><< Voltar</a>

@@ -3,9 +3,8 @@
 <img src="./treine_me.png">
 
 <div align="center">
-    <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel02/stage02/projeto02/" target="_blank"> Veja o Site</a>
+    <a style="font-size: 18px" href="https://oleandropereira.github.io/EXPLORER/level02/stage02/projeto02/" target="_blank"> Veja o Site</a>
 </div>
-
 
 <br>
 <h1>
