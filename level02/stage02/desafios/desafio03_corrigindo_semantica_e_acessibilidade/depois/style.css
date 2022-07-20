@@ -53,7 +53,6 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  
 }
 
 h1 {
@@ -71,7 +70,7 @@ h1 span {
   font-weight: bold;
 }
 
-p {
+main section p {
   font-size: 14px;
   line-height: 28px;
   color: #7d7987;
@@ -87,11 +86,6 @@ button {
   background: #69B99D;
   border: 0;
   padding: 14px 32px 15px;
-  
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
 
   display: flex;
   align-items: center;
@@ -101,10 +95,6 @@ button {
   border-radius: 4px;
 
   cursor: pointer;
-}
-
-button:hover {
-  background: #4ea788;
 }
 
 footer {
@@ -125,7 +115,3 @@ footer a {
     bottom: 0;
     right: 0;
 }
-
-  
-  
-  
