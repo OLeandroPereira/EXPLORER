@@ -8,7 +8,7 @@
 <br>
 
 <div style="background-color: hsla(0, 0%, 80%, 0.1); padding: 15px;">
-  👨‍💻 &nbsp “O aprendizado é contínuo e sempre haverá um próximo nível!.”
+  👨‍💻 &nbsp “O aprendizado é contínuo e sempre haverá um próximo nível.”
 </div>
 
 <br>
