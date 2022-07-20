@@ -32,7 +32,7 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 ### Módulos do Programa
 
 <details>
-  <summary>✅ <b>Nível 01</b></summary>
+  <summary>✅ <b>Level 01</b></summary>
   <ul>
     <a href="./nivel01/land01" style="text-decoration:none;"><li>✅ <i>Land 01 - Início da Missão</i></li></a>
       <ul>
@@ -52,7 +52,7 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 </details>
 
 <details>
-  <summary>✅ <b>Nível 02</b></summary>
+  <summary>✅ <b>Level 02</b></summary>
   <ul>
     <a href="./nivel02/land02" style="text-decoration:none;"><li>✅ <i>Land 02 - Objetivos e planejamento</i></li></a>
       <ul>
@@ -78,7 +78,7 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 </details>
 
 <details>
-  <summary>✅ <b>Nível 03</b></summary>
+  <summary>✅ <b>Level 03</b></summary>
   <ul>
     <a href="./nivel03/land03" style="text-decoration:none;"><li>✅ <i>Land 03 - Aprendizado, Estudos e Técnicas</i></li></a>
       <ul>
@@ -105,9 +105,11 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 </details>
 
 <details>
-  <summary>🔄 <b>Nível 04</b></summary>
+  <summary>🚧
+ <b>Level 04</b></summary>
   <ul>
-    <li>🔄 <i>Land 04 - Mentalidade</i></li>
+    <li>🚧
+ <i>Land 04 - Mentalidade</i></li>
       <ul>
         <li>Lidando com ansiedade</li>
         <li>Síndrome do impostor</li>
@@ -116,7 +118,8 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
         <li>Overdose de informações</li>
         <li>O certo e o errado (resultados) (funcionar antes de ser bom)</li>
       </ul>
-    <li>🔄 <i>Stage 04 - Lógica e algoritmos</i></li>
+    <li>🚧
+ <i>Stage 04 - Lógica e algoritmos</i></li>
       <ul>
         <li>Lógica de programação</li>
         <li>Entendendo problemas</li>
@@ -127,15 +130,18 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 </details>
 
 <details>
-  <summary>🔄 <b>Nível 05</b></summary>
+  <summary>🚧
+ <b>Level 05</b></summary>
   <ul>
-    <li>🔄 <i>Land 05 - Marca Pessoal</i></li>
+    <li>🚧
+>Land 05 - Marca Pessoal</i></li>
       <ul>
         <li>Criação de LinkedIn</li>
         <li>Criação de Github</li>
         <li>Documentando progresso (Github e LinkedIn)</li>
       </ul>
-    <li>🔄 <i>Stage 05 - JavaScript</i></li>
+    <li>🚧
+ <i>Stage 05 - JavaScript</i></li>
       <ul>
         <li>Fundamentos do JavaScript</li>
         <li>Estrutura de dados</li>
@@ -155,16 +161,19 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 </details>
 
 <details>
-  <summary>🔄 <b>Nível 06</b></summary>
+  <summary>🚧
+ <b>Level 06</b></summary>
   <ul>
-    <li>🔄 <i>Land 06 - Encontrando soluções</i></li>
+    <li>🚧
+ <i>Land 06 - Encontrando soluções</i></li>
       <ul>
         <li>Fórum</li>
         <li>Como pesquisar?</li>
         <li>Como identificar erros?</li>
         <li>Fontes de pesquisas</li>
       </ul>
-    <li>🔄 <i>Stage 06 - Git & GitHub</i></li>
+    <li>🚧
+ <i>Stage 06 - Git & GitHub</i></li>
       <ul>
         <li>Controle de versão</li>
         <li>Fundamentos do Git & GitHub</li>
@@ -173,15 +182,18 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 </details>
 
 <details>
-  <summary>🔄 <b>Nível 07</b></summary>
+  <summary>🚧
+ <b>Level 07</b></summary>
   <ul>
-    <li>🔄 <i>Land 7 - Inglês</i></li>
+    <li>🚧
+ <i>Land 7 - Inglês</i></li>
       <ul>
         <li>Perfil LinkedIn em inglês</li>
         <li>README em inglês</li>
         <li>Código em inglês</li>
       </ul>
-    <li>🔄 <i>Stage 07 - Back-end</i></li>
+    <li>🚧
+ <i>Stage 07 - Back-end</i></li>
       <ul>
         <li>Fundamentos do back-end</li>
         <li>Node.js</li>
@@ -192,15 +204,18 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 </details>
 
 <details>
-  <summary>🔄 <b>Nível 08</b></summary>
+  <summary>🚧
+ <b>Level 08</b></summary>
   <ul>
-    <li>🔄 <i>Land 8 - Projetos pessoais</i></li>
+    <li>🚧
+ <i>Land 8 - Projetos pessoais</i></li>
       <ul>
         <li>Inspiração de ideias</li>
         <li>Resolução de problemas</li>
         <li>Projetos simples (quere desenvolver o facebook)</li>
       </ul>
-    <li>🔄 <i>Stage 08 - Front-End</i></li>
+    <li>🚧
+ <i>Stage 08 - Front-End</i></li>
       <ul>
         <li>Tipos de aplicações (SSR, SPA)</li>
         <li>Bibliotecas e frameworks</li>
@@ -212,9 +227,11 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 </details>
 
 <details>
-  <summary>🔄 <b>Nível 09</b></summary>
+  <summary>🚧
+ <b>Level 09</b></summary>
   <ul>
-    <li>🔄 <i>Land 9 - Emprego</i></li>
+    <li>🚧
+ <i>Land 9 - Emprego</i></li>
       <ul>
         <li>Aplicando para a primeira vaga</li>
         <li>Encontrando oportunidades na plataforma</li>
@@ -222,7 +239,8 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
         <li>Como se portar em entrevistas</li>
         <li>Como se preparar para testes técnicos</li>
       </ul>
-    <li>🔄 <i>Stage 09 - API RESETful</i></li>
+    <li>🚧
+ <i>Stage 09 - API RESETful</i></li>
       <ul>
         <li>Consumo de API</li>
         <li>Integração front-end e back-end</li>
@@ -234,9 +252,11 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 </details>
 
 <details>
-  <summary>🔄 <b>Nível 10</b></summary>
+  <summary>🚧
+ <b>Level 10</b></summary>
   <ul>
-    <li>🔄 <i>Stage 10 - Deploy de projetos</i></li>
+    <li>🚧
+ <i>Stage 10 - Deploy de projetos</i></li>
       <ul>
         <li>CI/CD</li>
         <li>Digital Ocean</li>
