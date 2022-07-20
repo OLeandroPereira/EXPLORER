@@ -1,4 +1,10 @@
-<body background-color: #black>
+<style>
+body {
+  background-color: black;
+}
+</style>
+
+<body>
 
 <div align="lift">
     <img src="https://www.rocketseat.com.br/assets/logos/explorer.svg" width="200px" /> 
@@ -235,5 +241,6 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 <br>
 
 </body>
+
 
  
