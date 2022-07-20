@@ -1,14 +1,16 @@
+<h1>
 <div align="lift">
     <img src="https://raw.githubusercontent.com/Rocketseat/rocketseat-vscode-react-native-snippets/master/images/rocketseat_logo.png" width="205px" /> 
 </div>
+<h1/>
 
-<br><br>
+<br>
 
 <div align="center">
     <img src="./explorer.png" width="400px" /> 
 </div>
 
-<br><br>
+
 
 
 
@@ -70,7 +72,7 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
 </details>
 
 <details>
-  <summary>✅ <b>Level 03</b></summary>
+  <summary>🚧 <b>Level 03</b></summary>
   <ul>
     <a href="./level03/land03" style="text-decoration:none;"><li>✅ <i>Land 03 - Aprendizado, Estudos e Técnicas</i></li></a>
       <ul>
@@ -82,7 +84,7 @@ São 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage
         <li>Técnica Feymann</li>
         <li>Técnica Active Recall</li>
       </ul>
-    <a href="./level03/stage03" style="text-decoration:none;"><li>✅ <i>Stage 03 - Avançando no HTML e CSS</i></li></a>
+    <a href="./level03/stage03" style="text-decoration:none;"><li>🚧 <i>Stage 03 - Avançando no HTML e CSS</i></li></a>
       <ul>
         <li>Formulários</li>
         <li>Tipos de Inputs</li>
