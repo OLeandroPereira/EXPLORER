@@ -1,5 +1,5 @@
 <div align="lift">
-    <img src="https://raw.githubusercontent.com/Rocketseat/rocketseat-vscode-react-native-snippets/master/images/rocketseat_logo.png" width="150px" /> 
+    <img src="https://raw.githubusercontent.com/Rocketseat/rocketseat-vscode-react-native-snippets/master/images/rocketseat_logo.png" width="205px" /> 
 </div>
 
 <br><br>
