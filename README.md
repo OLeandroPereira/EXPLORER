@@ -1,18 +1,24 @@
 <style>
 body {
-  background-color: black;
+  background-color: ;
 }
 </style>
 
 <body>
 
 <div align="lift">
-    <img src="https://www.rocketseat.com.br/assets/logos/explorer.svg" width="200px" /> 
+    <img src="https://raw.githubusercontent.com/Rocketseat/rocketseat-vscode-react-native-snippets/master/images/rocketseat_logo.png" width="150px" /> 
 </div>
 
+<br><br>
+
 <div align="center">
-    <img src="https://www.rocketseat.com.br/assets/logos/rocketseat.svg" width="400px" /> 
+    <img src="./explorer.png" width="400px" /> 
 </div>
+
+<br><br>
+
+
 
 <br>
 
